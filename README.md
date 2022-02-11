@@ -1,6 +1,7 @@
 # linker-test
 
-![app-screenshot](./app-screenshot.png)
+![Captura de Tela 2022-02-11 às 15 47 13](https://user-images.githubusercontent.com/58786533/153651368-b3513d6e-19c4-4a8a-b2fa-e8c4602263b2.png)
+
 
 Teste para vaga de Frontend, usando OpenWeather API.
 
