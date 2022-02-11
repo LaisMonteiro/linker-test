@@ -4,9 +4,7 @@
 
 
 Teste para vaga de Frontend, usando OpenWeather API.
-
 Voce deve providenciar sua própria API key. 
-Run: `REACT_APP_API_KEY={YOUR API KEY HERE} npm start`
 
 ## Requirements:
 - [x] Mostrar a atual temperatura em uma cidade especifica (e.g.: 18 °C);
