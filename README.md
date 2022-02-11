@@ -4,6 +4,7 @@
 
 
 Teste para vaga de Frontend, usando OpenWeather API.
+</br>
 Voce deve providenciar sua própria API key. 
 
 ## Requirements:
